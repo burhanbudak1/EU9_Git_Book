@@ -1,4 +1,4 @@
 
 i love java
 
-Java is fine
+Java is fine, but selenium better
